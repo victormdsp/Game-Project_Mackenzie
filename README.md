@@ -1,2 +1,2 @@
-# Game-Project_Mackenzie
-Jogo feito para a aula de Desenvolvimento de jogos Mackenzie
+# Repository-Organiza-o-Jogos-Python
+Distribuição dos códigos
